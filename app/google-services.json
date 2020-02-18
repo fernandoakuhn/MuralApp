@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003808854890",
+    "firebase_url": "https://muralapp-7decb.firebaseio.com",
+    "project_id": "muralapp-7decb",
+    "storage_bucket": "muralapp-7decb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003808854890:android:9ba86b367a336de17e0b13",
+        "android_client_info": {
+          "package_name": "br.com.testeandroid.muralapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003808854890-f8umlunlcgduecrcmnk9upkvscv8o8il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClrUPnmH6t56gtcTxryVzV4QSlB2OVkG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003808854890-f8umlunlcgduecrcmnk9upkvscv8o8il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

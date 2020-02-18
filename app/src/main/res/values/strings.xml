@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MuralApp</string>
+    <string name="account_name">Nome da Conta</string>
+    <string name="password">Senha</string>
+    <string name="password_hint">**************</string>
+    <string name="forgot_your_login_info">Esqueceu seus dados de login?</string>
+    <string name="sign_in">Entrar</string>
+    <string name="remember_my_password">Lembrar minhas informações de login.</string>
+    <string name="username">Usuario</string>
+    <string name="first_name">Nome</string>
+    <string name="last_name">Sobrenome</string>
+    <string name="email">E-mail</string>
+    <string name="create_account">Criar conta</string>
+    <string name="email_hint">teste@examplo.com.br</string>
+    <string name="reset_senha">Enviar e-mail de recuperação</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MuralApp</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Cabeçalho</string>
+    <string name="action_settings">Configurações</string>
+</resources>
